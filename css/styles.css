@@ -141,7 +141,7 @@ body {
 /* .............ABOUT................ */
 
 .about-title {
-  visibility: hidden;
+  display: none;
 }
 
 .about-item-title {
@@ -244,7 +244,7 @@ body {
 /* .............PRODUCTS................ */
 
 .products-nav-title {
-  visibility: hidden;
+  display: none;
 }
 
 .products-nav-btn {
@@ -271,7 +271,7 @@ body {
 }
 
 .products-title {
-  visibility: hidden;
+  display: none;
 }
 
 .products-item-title {
