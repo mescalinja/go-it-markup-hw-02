@@ -78,7 +78,7 @@ body {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
-  color: #757575;
+  color: var(--first-text-color);
 }
 
 .header-tel {
@@ -86,7 +86,7 @@ body {
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
-  color: #757575;
+  color: var(--first-text-color);
 }
 
 .header-mail:hover {
