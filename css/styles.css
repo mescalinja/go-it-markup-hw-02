@@ -26,7 +26,7 @@ body {
 
 .header-logo,
 .footer-logo {
-  font-family: "Raleway"; sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
@@ -35,7 +35,7 @@ body {
 }
 
 .studio-logo {
-  font-family: "Raleway"; sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
@@ -44,7 +44,7 @@ body {
 }
 
 .footer-studio-logo {
-  font-family: "Raleway"; sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
@@ -213,8 +213,6 @@ body {
 .footer-tel:focus {
   color: var(--accent-color);
 }
-
-
 
 /* ---------- PORTFOLIO -------- */
 
